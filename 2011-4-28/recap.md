@@ -3,7 +3,7 @@ Project Gopher Taskmaster Determination Recaps
 for May 4, 2011
 ---------------
 
-In preperation for our round-up tomorrow night, here's the updates I've gotten back from folk
+In preparation for our round-up tomorrow night, here's the updates I've gotten back from folk
 
 Membership Commitment
 ---------------------
