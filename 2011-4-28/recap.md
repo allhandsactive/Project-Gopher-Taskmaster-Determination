@@ -64,6 +64,9 @@ Stuff to bring up on 5/5:
 + Xander needs to follow up with the only insurance agency that hasn't immediately turned us away with regard to liability and D&O insurances. At last status, they were doing a risk assessment of our activities in our market vs. other markets they already cover. This is the same insurance agency that covers i3Detroit.
 + Xander needs to follow up with Joe regarding a PCB design class.
 + Xander needs to follow up with Movax regarding a hardware hacking class (waiting on finishing MCATs at the moment).
++ Pokey needs a deadline for "binary clock kit"
++ Pokey needs to make a schematic and BOM
++ Xander needs to design a PCB for Pokey's clock kit
 
 ### Projects that need a person on them
 + Send in an application for AHA to be at the Ann Arbor Mini Maker Faire.
