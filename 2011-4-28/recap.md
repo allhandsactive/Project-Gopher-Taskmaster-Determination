@@ -22,6 +22,7 @@ Membership Commitment
 AHA's Commitment to Members
 ---------------------------
 ### Stuff that got noted
++ Hmm, it appears there's nothing here yet...
 + Josh tweeted a couple hours ago for the first time.
 + Josh has started a preliminary classes document that stress the current strengths / knowledge of AHA members so that we can have some recurring classes each month that get people involved on an introductory level (specifics to be released at meeting)
 + Xander has the membership parts discount ready over here: http://goo.gl/V9WJn the discount covers stock and shipping costs in aggregate.
