@@ -1,5 +1,5 @@
-Project Gopher Taskmaster Determination Sit-down
-================================================
+Project Gopher Taskmaster Determination Pre-cap
+===============================================
 for May 11, 2011
 ----------------
 
@@ -29,9 +29,9 @@ AHA Advertising
 ---------------
 ### T's that GD'd
 + Nate emailed Amanda to make sure Jon could use Google Calendar
++ Jon got access to Google Calendar
 
 ### Y U NO FINISH THESE?!
-+ Jon got access to Google Calendar
 + Josh, Jon, and Xander continued to tweet
 + Oishi said labcoats should be screenprinted, need embroidered for indiegogo
 
@@ -55,7 +55,5 @@ Maker Faire
 
 Personal Projects
 -----------------
-### Y U NO FINISH THESE?!
-+ Oishi wants to be reminded about papercraft hands
-+ Nate will remind Oishi about papercraft by May 12th
-
+### T's that GD'd
++ Nate will remind Oishi about papercraft by May 12th 
