@@ -6,7 +6,7 @@ for May 11, 2011
 In preparation for our round-up tomorrow night, here's the updates I've gotten back from folk
 
 ### New items since last meeting
-+ Nima and Xander should report on the status of a new door lock by 5/12
++ Nima and Xander need to get in touch with Bilal about RFID for door
 
 Members Commitment to AHA
 -------------------------
@@ -30,9 +30,10 @@ AHA Advertising
 ### T's that GD'd
 + Nate emailed Amanda to make sure Jon could use Google Calendar
 + Jon got access to Google Calendar
++ Jon was handing out tweets like they were radioactive waste
 
 ### Y U NO FINISH THESE?!
-+ Josh, Jon, and Xander continued to tweet
++ Josh and Xander continued to tweet
 + Oishi said labcoats should be screenprinted, need embroidered for indiegogo
 
 Space Expansion
