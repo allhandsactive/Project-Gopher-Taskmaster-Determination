@@ -46,7 +46,6 @@ Personal Projects
 
 New Ideas and Projects
 ----------------------
-+ Xander will develop financial with board
 + Matthew, Xander, Bilal, Jon, Josh, Oishi, Katie will each have 3 ideas for kickstarter prizes
 + Josh will send out email for twilight night.
 + Nate will contact WCC about culinary school end dates
